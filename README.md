@@ -1,1 +1,2 @@
-# Repository for final project
+#  final project
+https://github.com/Nkinyampraises/oaqjp-final-project-emb-ai/
