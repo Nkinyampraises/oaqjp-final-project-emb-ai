@@ -1,0 +1,6 @@
+PS C:\Users\MATRIX TECHNOLOGY\Downloads\web\final_project> pylint --persistent=n server.py
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+

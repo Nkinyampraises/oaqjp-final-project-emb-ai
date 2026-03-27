@@ -1,0 +1,3 @@
+PS C:\Users\MATRIX TECHNOLOGY\Downloads\web\final_project> python -c "import EmotionDetection; print('EmotionDetection is a valid package'); print(EmotionDetection.__name__)"
+EmotionDetection is a valid package
+EmotionDetection

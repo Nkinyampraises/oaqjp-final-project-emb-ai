@@ -1,0 +1,4 @@
+PS C:\Users\MATRIX TECHNOLOGY\Downloads\web\final_project> python
+>>> import emotion_detection
+>>> emotion_detection.emotion_detector('I love this new technology.')
+{'anger': 0.004, 'disgust': 0.002, 'fear': 0.001, 'joy': 0.969, 'sadness': 0.007}
