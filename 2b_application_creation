@@ -1,0 +1,3 @@
+PS C:\Users\MATRIX TECHNOLOGY\Downloads\web\final_project> python -c "import emotion_detection; print('imported'); print(emotion_detection.emotion_detector('I love this new technology.'))"
+imported
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='sn-watson-emotion.labs.skills.network', port=443): Max retries exceeded with url: /v1/watson.runtime.nlp.v1/NlpService/EmotionPredict
